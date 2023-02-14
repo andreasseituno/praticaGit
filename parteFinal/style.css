@@ -9,6 +9,10 @@ h1 {
   text-align: center;
 }
 
+td {
+  background-color: aliceblue;
+}
+
 h2 {
   font-size: 13px;
   color: brown;
